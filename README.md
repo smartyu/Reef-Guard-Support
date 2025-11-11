@@ -8,11 +8,11 @@ Welcome to the technical support hub for **Aquarium Guard** app! This repository
 If you encounter problems, have suggestions, or need assistance, please follow these steps:
 
 1. **Check Existing Issues**  
-   First, browse the [Issues tab](https://github.com/your-username/aquarium-guard-support/issues) to see if your question or issue has already been addressed. This helps avoid duplicates and gets you answers faster!
+   First, browse the [Issues tab](https://github.com/smartyu/Aquarium-Guard-Support/issues) to see if your question or issue has already been addressed. This helps avoid duplicates and gets you answers faster!
 
 2. **Submit a New Issue**  
    If your issue isn’t listed:  
-   - Go to the [Issues tab](https://github.com/your-username/aquarium-guard-support/issues) and click **"New issue"**.  
+   - Go to the [Issues tab](https://github.com/smartyu/Aquarium-Guard-Support/issues) and click **"New issue"**.  
    - Choose a template:  
      - **Bug Report**: For app malfunctions (crashes, errors, etc.).  
      - **Feature Request**: For suggesting new tools or improvements.  
