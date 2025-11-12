@@ -1,14 +1,14 @@
-# Aquarium Guard — User Agreement (Terms of Use)
+# Reef Guard — User Agreement (Terms of Use)
 
 **Last Updated: November 2025**
 
-Welcome to *Aquarium Guard*!  
-This User Agreement (“Agreement”) governs your use of the Aquarium Guard mobile application (“App”), developed and maintained by the developer (“we,” “our,” or “us”). By downloading, installing, or using this App, you agree to be bound by the terms below. If you do not agree, please discontinue use immediately.
+Welcome to *Reef Guard*!  
+This User Agreement (“Agreement”) governs your use of the Reef Guard mobile application (“App”), developed and maintained by the developer (“we,” “our,” or “us”). By downloading, installing, or using this App, you agree to be bound by the terms below. If you do not agree, please discontinue use immediately.
 
 ---
 
 ## 1. Services
-The App is designed to help aquarium hobbyists manage tank information, equipment, consumables, aquatic life records, and related functions.  
+The App is designed to help Reef hobbyists manage tank information, equipment, consumables, aquatic life records, and related functions.  
 We continually improve the App to provide a better user experience.
 
 ---
@@ -46,7 +46,7 @@ We reserve the right to suspend or terminate services for violations of these ru
 ## 6. Disclaimer
 1. The App’s content and data are for reference only and do not constitute professional advice.  
 2. We are not responsible for any data loss or service interruptions caused by network, device, or force majeure events.  
-3. Users are fully responsible for their own aquarium management decisions.
+3. Users are fully responsible for their own Reef management decisions.
 
 ---
 
