@@ -1,13 +1,13 @@
-# Privacy Policy - Aquarium Guard
+# Privacy Policy - Reef Guard
 
 **Effective Date:** 2025/11/11
 
-Aquarium Guard respects your privacy. Please read this policy to understand how we handle your data.
+Reef Guard respects your privacy. Please read this policy to understand how we handle your data.
 
 ## Information We Collect
-Aquarium Guard does **not collect or share personal information**. All data entered in the app, including:
+Reef Guard does **not collect or share personal information**. All data entered in the app, including:
 
-- Aquarium details (tank size, setup, lighting, temperature)
+- Reef details (tank size, setup, lighting, temperature)
 - Fish and coral records
 - Equipment and consumables
 - Daily maintenance and history logs
