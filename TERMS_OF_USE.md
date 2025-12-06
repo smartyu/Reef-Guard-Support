@@ -1,4 +1,4 @@
-Reef Guard – Privacy Policy
+Reef Guard – Terms of use
 
 Effective Date: Dec 1, 2025
 
